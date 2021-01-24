@@ -114,6 +114,7 @@ int main(){
     n1->key=key1;
 	n1->data=data1;
 	s.appendNode(n1);
+	
 }
 
   s.printList();
